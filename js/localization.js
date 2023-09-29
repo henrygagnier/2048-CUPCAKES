@@ -1,7 +1,7 @@
 String.toLocaleString({
 
 	"it": {
-    "%game-intro"           : "Join the <strong>Cupcakes!</strong>",
+    "%game-intro"           : "Join the <strong>food!</strong>",
     "%restart-button"       : "Play Again",
     "%keep-playing-button"  : "Keep going",
     "%retry-button"         : "Retry",
@@ -11,7 +11,7 @@ String.toLocaleString({
     "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"http://git.io/cupcakes\">git.io/cupcakes</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
     "%credits"              : "Cupcakes images by <a href=\"http://www.georgetowncupcake.com/\" title=\"Georgetown Cupcake | DC Cupcakes | About\">Georgetown Cupcake</a>.",
     "%tweet1"               : "I scored \"",
-    "%tweet2"               : " at 2048-CUPCAKES #2048game",
+    "%tweet2"               : " at 2048-FOOD #2048game",
     "%tile-legend"          : "<strong class=\"important\">Tile Legend:</strong>",
     '%2'                    : '1',
     '%4'                    : '2',
@@ -43,7 +43,7 @@ String.toLocaleString({
 	},
 
   "en": {
-    "%game-intro"           : "Join the <strong>Cupcakes!</strong>",
+   "%game-intro"           : "Join the <strong>food!</strong>",
     "%restart-button"       : "Play Again",
     "%keep-playing-button"  : "Keep going",
     "%retry-button"         : "Retry",
@@ -53,7 +53,7 @@ String.toLocaleString({
     "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"http://git.io/cupcakes\">git.io/cupcakes</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
     "%credits"              : "Cupcakes images by <a href=\"http://www.georgetowncupcake.com/\" title=\"Georgetown Cupcake | DC Cupcakes | About\">Georgetown Cupcake</a>.",
     "%tweet1"               : "I scored \"",
-    "%tweet2"               : " at 2048-CUPCAKES #2048game",
+    "%tweet2"               : " at 2048-FOOD #2048game",
     "%tile-legend"          : "<strong class=\"important\">Tile Legend:</strong>",
     '%2'                    : '1',
     '%4'                    : '2',
